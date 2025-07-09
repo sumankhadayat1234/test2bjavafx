@@ -3,7 +3,7 @@
 **Author:** Suman Khadayat  
 **Student ID:** [23096651]  
 
-## i have taken help from google  how to connect javafx with my sql and i successfully connected it.
+-- i have taken help from google  how to connect javafx with my sql and i successfully connected it.
 
 ##  Overview
 
