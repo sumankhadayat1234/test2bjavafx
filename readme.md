@@ -8,7 +8,7 @@
 
 This JavaFX desktop application allows users to log in and perform CRUD operations (Create, Read, Update, Delete) on student data. It uses MySQL for data storage and JavaFX for the GUI. The project follows MVC design principles with separate scenes for login and data management.
 
---- I have discussed and worked on this project with the help of my classmates Nimesh and Niraj, and we collaborated on understanding and implementing the key components.--
+
 
 
 ## ✅ Features
